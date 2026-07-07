@@ -15,8 +15,8 @@ The dataset used for training and evaluating this model is sourced from the foll
 
 The program expects the data file to be located at `data/ratings.csv` with the following columns:
 * `id`: Unique identifier for the user (integer)
-* `movie_id`: Unique identifier for the movie (integer)
 * `rate`: Movie rating given by the user (float/decimal)
+* `movie_id`: Unique identifier for the movie (integer)
 * `date`: Timestamp or date of the review (string)
 
 ---
