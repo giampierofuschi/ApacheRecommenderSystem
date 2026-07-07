@@ -1,5 +1,5 @@
 # Movie Recommender System
-### Final Graduation Project - University of Palermo (UniPa)
+### Final Graduation Project - University of Palermo (UNIPA)
 
 This project implements a **Movie Recommender System** based on the **ALS (Alternating Least Squares)** Machine Learning algorithm using the **Apache Spark** framework in Java. 
 
