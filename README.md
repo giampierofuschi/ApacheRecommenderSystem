@@ -21,7 +21,7 @@ The program expects the data file to be located at `data/ratings.csv` with the f
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Java 21
 * **Distributed Computing Framework:** Apache Spark 3.5.0 (Modules: Spark Core, Spark SQL, Spark MLlib)
 * **Dependency Management:** Maven
